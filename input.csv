@@ -1,0 +1,27 @@
+Sample Name,Broad Category Cancer Type,TMB Score
+IN-423-VARC,Adrenal gland,2.8
+AB2,Brain,3.3
+AB3,Breast,5.6
+AB4,Cervix,1.9
+IN-423-UBWC,Colorectal,8.9
+AB6,Endometrium,5.3
+AB7,Esophagus,3.7
+AB8,Hepatobiliary,5
+AB9,Intestinal tract,4.7
+AB10,Head & neck,2.2
+AB11,Lung,3.4
+AB12,Oral,5.1
+AB13,Other,3.66
+AB14,Ovary,3.21
+AB15,Pancreas,2.32
+AB16,Penile,4.1
+AB17,Prostate,1.3
+AB18,Renal,3.5
+AB19,Skin,2.6
+AB20,Thyroid,4.5
+AB21,Urinary Bladder,4.2
+AB22,Retroperitoneum and Peritoneum,3.7
+AB23,Large Intestine,3.11
+AB24,"Bones, joints, and articular cartilage of the limb",4.2
+AB25,"Bones, joints and articular cartilage of other/ unspecified sites",3.8
+AB26,Stomach,4.7
