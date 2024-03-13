@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import os
 import sys
+import time
 
 chars = ['|', '/', '-', '\\']
 # Read the distribution data into a DataFrame
@@ -62,5 +63,6 @@ for _, row in input_df.iterrows():
       for char in chars:
         sys.stdout.write(f'Processing >> {x}% {char}\r')
         sys.stdout.flush()
+        time.sleep(0.01)
 
 
